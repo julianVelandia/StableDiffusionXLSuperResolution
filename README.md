@@ -17,7 +17,7 @@ A preconfigured Colab notebook is provided, requiring GPU access. Simply load it
 
 ## Running Without Super-Resolution
 
-<img src="https://github.com/user-attachments/assets/db25381f-7542-4013-9c3c-d0e1671a744a" alt="Image without super-resolution" width="600"/>
+<img src="[https://github.com/user-attachments/assets/db25381f-7542-4013-9c3c-d0e1671a744a](https://github.com/user-attachments/assets/7a289fb5-4202-49d2-9895-2bc55a4d5ce2" alt="Image without super-resolution" width="600"/>
 
 <img src="https://github.com/user-attachments/assets/58701c21-2d11-4a47-9b40-06366322a055" alt="Image with super-resolution"/>
 
