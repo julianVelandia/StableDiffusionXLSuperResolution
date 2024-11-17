@@ -1,5 +1,10 @@
 # StableDiffusionXLSuperResolution
 
+# StableDiffusionXLSuperResolution
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianVelandia/StableDiffusionXLSuperResolution/blob/master/StableDiffusionAutoDownloader.ipynb)
+
+
 This project generates ultra-realistic images using *Stable Diffusion XL* and enhances them with super-resolution through *Real-ESRGAN*.
 
 ## Usage
