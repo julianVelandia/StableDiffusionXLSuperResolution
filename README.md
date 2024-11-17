@@ -17,16 +17,20 @@ A preconfigured Colab notebook is provided, requiring GPU access. Simply load it
 
 ## Running Without Super-Resolution
 
-![image_1_A_futuristic_laboratory_with_a_4813](https://github.com/user-attachments/assets/db25381f-7542-4013-9c3c-d0e1671a744a)
-![super_resolved_image_1_A_futuristic_laboratory_with_a_4813 (1)](https://github.com/user-attachments/assets/58701c21-2d11-4a47-9b40-06366322a055)
+## Running Without Super-Resolution
+
+<img src="https://github.com/user-attachments/assets/db25381f-7542-4013-9c3c-d0e1671a744a" alt="Image without super-resolution" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/58701c21-2d11-4a47-9b40-06366322a055" alt="Image with super-resolution"/>
 
 
-´´´ python
+
+```python
 generate_and_save_image(
     pipeline, 
-    prompt="A serene mountain landscape...", 
+    prompt=prompt, 
     super_resolution=False, 
     width=1024, 
     height=576
 )
-´´´
+```
